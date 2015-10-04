@@ -1,0 +1,17 @@
+{
+  "name": "codetest",
+  "version": "1.0.0",
+  "description": "NodeJS code test for ValPak.",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec",
+    "start": "node server.js"
+  },
+  "author": "John Horton",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3",
+    "request": "^2.64.0"
+  }
+}
