@@ -1,7 +1,7 @@
 # WeatherMap API Test
 Simple API example that pulls temperature data for a specified city
 
-#Setup
+##Setup
 
 Install Node Modules
 
@@ -15,7 +15,7 @@ Start Server
 
 `> npm start`
 
-#Usage
+##Usage
 
 The server will listen on `localhost:8080`.  Any calls to the server will respond with the temperature data for Tampa, fl by default.
 
